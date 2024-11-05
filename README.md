@@ -24,7 +24,7 @@ Este repositório foi criado para facilitar o acesso às informações sobre com
 
 1. Conecte o Arduino Nano ao computador.
 2. Faça upload do código escolhido no microcontrolador.
-3. Abra o **vJoySerialFeeder** e configure-o conforme as instruções do projeto.
+3. Abra o **vJoySerialFeeder**, conecte a porta COM desejada e configure-o conforme as instruções do projeto.
 
 ## Tutorial em Vídeo
 
